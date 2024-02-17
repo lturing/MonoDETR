@@ -1,0 +1,5 @@
+checkpoint_best_2.pth
+output.mp4
+*__pycache__*
+lib/models/monodetr/ops/build
+
